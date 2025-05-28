@@ -1,0 +1,7 @@
+{
+  "bootstrapperversion": "1",
+  "bootstrapperurl": "https://yourdomain.com/path/to/newbootstrapper.exe",
+  "bootstrappername": "pfmtbootstrapper.exe",
+  "zip": "https://github.com/crimsonlmaoo/pfmtversioncheckes/releases/download/v3.2/update.zip",
+  "appzipname": "pfmt.zip"
+}
